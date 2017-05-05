@@ -1,8 +1,7 @@
-# Microsoft Innovation University @ Farfetch
-
 ![Logo](media/miu_logo.png)
 ![Logo](media/farfetch_logo.png)
 
+# Microsoft Innovation University @ Farfetch
 
 Microsoft Innovation University (MIU) is designed to help you ensure that your technical people are aware of the latest advances in technology and gain the knowledge and skills they need to use them to make your company competitive in the economy of the future.
 

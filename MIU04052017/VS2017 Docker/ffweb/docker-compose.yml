@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+  ffweb:
+    image: ffweb
+    build:
+      context: ./ffweb
+      dockerfile: Dockerfile
+
+  ffapi:
+    image: ffapi
+    build:
+      context: ./../ffapi
+      dockerfile: Dockerfile
